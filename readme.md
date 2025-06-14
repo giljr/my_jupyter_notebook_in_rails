@@ -45,11 +45,11 @@ You should now see a "Ruby" kernel option available when you create a new notebo
 
 Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
-#### 00 - [Map, Reduce & Select - Mastering Enumerable Methods](https://medium.com/jungletronics/map-reduce-select-in-ruby-b6d66561e1bb) 
+#### [00](notebook2.ipynb/) - [Map, Reduce & Select - Mastering Enumerable Methods](https://medium.com/jungletronics/map-reduce-select-in-ruby-b6d66561e1bb) 
 
 #### 01 - [Map, Reduce & Select  - Complex Solutions](https://medium.com/jungletronics/map-reduce-select-in-ruby-b3cf698d99a6) 
 
-#### 02 - [Ruby Syntax - Review in Jupiter Notebook]()
+#### [02](notebook1.ipynb/) - [Ruby Syntax - Review in Jupiter Notebook](https://medium.com/jungletronics/ruby-notebook-chronicles-1d4b4ee09db9)
 
 
     📂 Notebooks for each episode are in the /notebooks folder.
