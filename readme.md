@@ -47,7 +47,7 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [00](notebook2.ipynb/) - [Map, Reduce & Select - Mastering Enumerable Methods](https://medium.com/jungletronics/map-reduce-select-in-ruby-b6d66561e1bb) 
 
-#### 01 - [Map, Reduce & Select  - Complex Solutions](https://medium.com/jungletronics/map-reduce-select-in-ruby-b3cf698d99a6) 
+#### [01](notebook3.ipynb/) - [Map, Reduce & Select  - Complex Solutions](https://medium.com/jungletronics/map-reduce-select-in-ruby-b3cf698d99a6) 
 
 #### [02](notebook1.ipynb/) - [Ruby Syntax - Review in Jupiter Notebook](https://medium.com/jungletronics/ruby-notebook-chronicles-1d4b4ee09db9)
 
