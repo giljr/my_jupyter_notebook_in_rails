@@ -51,8 +51,7 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [02](notebook1.ipynb/) - [Ruby Syntax - Review in Jupiter Notebook](https://medium.com/jungletronics/ruby-notebook-chronicles-1d4b4ee09db9)
 
-#### [03](keycloak_3.ipynb/) - [Rails 8 + Keycloak Integration: A Beginner’s Guide](https://medium.com/jungletronics/rails-8-keycloak-integration-a-beginners-guide-e3b11dcaf560)
-    
+
     📂 Notebooks for each episode are in the /notebooks folder.
 
 📖 Where to Read
@@ -70,4 +69,20 @@ Feel free to fork this repository and add new episodes, improve examples, or ope
 📜 License
 
 MIT License. Do as you wish — just keep learning and coding Ruby!
+user_info = {
+  name:                payload["name"],
+  email:               payload["email"],
+  preferred_username:  payload["preferred_username"],
+  given_name:          payload["given_name"],
+  family_name:         payload["family_name"]
+}
 
+user_info.each do |key, value|
+  puts "#{key.to_s.ljust(20)}: #{value || '[not provided]'}"
+end
+
+
+This is an accurate explanaition about this middleware implemented by J3.
+Please be aware of this upgrate.
+Bye!
+👉⬇️
