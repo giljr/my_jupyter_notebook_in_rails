@@ -55,6 +55,8 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [04](keycloak_4.ipynb/) - [Rails 8 + Keycloak Integration v2: Adding Oauth2 Flow](https://medium.com/jungletronics/rails-8-keycloak-integration-v2-5401c3562362)
 
+#### [05](jwt_study.ipynb/) - [🔐 Rails JWT Authentication: A Practical Guide](https://medium.com/jungletronics/rails-jwt-authentication-a-practical-guide-ed62126e0f70)
+
 
     📂 Notebooks for each episode are in the /notebooks folder.
 
