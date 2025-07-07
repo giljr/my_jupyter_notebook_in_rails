@@ -57,7 +57,7 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [05](jwt_study.ipynb/) - [🔐 Rails JWT Authentication: A Practical Guide](https://medium.com/jungletronics/rails-jwt-authentication-a-practical-guide-ed62126e0f70)
 
-#### [06](session_management_example.ipynb/) - [Rails Session & Cookie Playground: Understand and experiment with session and cookie storage in Rails 8]()
+#### [06](session_management_example.ipynb/) - [Rails Session & Cookie Playground: Understand and experiment with session and cookie storage in Rails 8](https://medium.com/jungletronics/rails-session-cookie-playground-268823c9bbf5)
 
     📂 Notebooks for each episode are in the /notebooks folder.
 
