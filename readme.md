@@ -59,8 +59,7 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [06](session_management_example.ipynb/) - [Rails Session & Cookie Playground: Understand and experiment with session and cookie storage in Rails 8](https://medium.com/jungletronics/rails-session-cookie-playground-268823c9bbf5)
 
-#### [07](Understanding OmniAuth.ipynb/) - OmniAuth with Keycloak in Rails 8]
-
+#### [07](understanding_OmniAuth.ipynb/) - [Omniauth + Keycloak + Rails 8](https://medium.com/jungletronics/omniauth-with-keycloak-in-rails-8-e777161a2c2b)
     📂 Notebooks for each episode are in the /notebooks folder.
 
 📖 Where to Read
