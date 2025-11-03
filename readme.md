@@ -62,6 +62,9 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 #### [07](understanding_OmniAuth.ipynb/) - [Omniauth + Keycloak + Rails 8](https://medium.com/jungletronics/omniauth-with-keycloak-in-rails-8-e777161a2c2b)
 
 #### [08](permit_vs_expect.ipynb/) - [Rails 8 — Understanding params.expect](https://medium.com/jungletronics/rails-8-understanding-params-expect-19c4585d1a1c)
+
+#### [09](rubocop.ipynb/) - [Static vs. Dynamic Code Analysis: How RuboCop Reads Ruby’s Mind](https://medium.com/jungletronics/static-vs-dynamic-code-analysis-how-rubocop-reads-rubys-mind-c3e190a28420)
+
     📂 Notebooks for each episode are in the /notebooks folder.
 
 📖 Where to Read
