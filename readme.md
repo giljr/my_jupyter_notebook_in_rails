@@ -65,6 +65,8 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [09](rubocop.ipynb/) - [Static vs. Dynamic Code Analysis: How RuboCop Reads Ruby’s Mind](https://medium.com/jungletronics/static-vs-dynamic-code-analysis-how-rubocop-reads-rubys-mind-c3e190a28420)
 
+#### [10](rails_hierarchy.ipynb/) - [Comparing a Simple Rails Class x Active Record Object]()
+
     📂 Notebooks for each episode are in the /notebooks folder.
 
 📖 Where to Read
