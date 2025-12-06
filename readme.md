@@ -67,6 +67,8 @@ Each episode is a focused lesson or theme in Ruby, written in notebook format:
 
 #### [10](rails_hierarchy.ipynb/) - [Comparing a Simple Rails Class x Active Record Object]()
 
+#### [11](classMethod_scope_enums_example.ipynb/) - [Scopes vs Enums in Rails - Which One Should You Use?](https://medium.com/jungletronics/scopes-vs-enums-in-rails-60ee5a7c6356)
+
     📂 Notebooks for each episode are in the /notebooks folder.
 
 📖 Where to Read
